@@ -1,0 +1,4 @@
+﻿  OOP LR 4.cpp
+C:\Users\luchi\source\repos\OOP LR 4\OOP LR 4\OOP LR 4.cpp(21,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\luchi\source\repos\OOP LR 4\OOP LR 4\OOP LR 4.cpp(23,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  OOP LR 4.vcxproj -> C:\Users\luchi\source\repos\OOP LR 4\Debug\OOP LR 4.exe
