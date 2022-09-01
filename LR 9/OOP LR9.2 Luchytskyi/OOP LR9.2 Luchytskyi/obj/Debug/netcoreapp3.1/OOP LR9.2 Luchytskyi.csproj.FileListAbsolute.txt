@@ -1,0 +1,13 @@
+C:\Users\luchi\source\repos\OOP LR9.2 Luchytskyi\OOP LR9.2 Luchytskyi\bin\Debug\netcoreapp3.1\OOP LR9.2 Luchytskyi.exe
+C:\Users\luchi\source\repos\OOP LR9.2 Luchytskyi\OOP LR9.2 Luchytskyi\bin\Debug\netcoreapp3.1\OOP LR9.2 Luchytskyi.deps.json
+C:\Users\luchi\source\repos\OOP LR9.2 Luchytskyi\OOP LR9.2 Luchytskyi\bin\Debug\netcoreapp3.1\OOP LR9.2 Luchytskyi.runtimeconfig.json
+C:\Users\luchi\source\repos\OOP LR9.2 Luchytskyi\OOP LR9.2 Luchytskyi\bin\Debug\netcoreapp3.1\OOP LR9.2 Luchytskyi.runtimeconfig.dev.json
+C:\Users\luchi\source\repos\OOP LR9.2 Luchytskyi\OOP LR9.2 Luchytskyi\bin\Debug\netcoreapp3.1\OOP LR9.2 Luchytskyi.dll
+C:\Users\luchi\source\repos\OOP LR9.2 Luchytskyi\OOP LR9.2 Luchytskyi\bin\Debug\netcoreapp3.1\OOP LR9.2 Luchytskyi.pdb
+C:\Users\luchi\source\repos\OOP LR9.2 Luchytskyi\OOP LR9.2 Luchytskyi\obj\Debug\netcoreapp3.1\OOP LR9.2 Luchytskyi.AssemblyInfoInputs.cache
+C:\Users\luchi\source\repos\OOP LR9.2 Luchytskyi\OOP LR9.2 Luchytskyi\obj\Debug\netcoreapp3.1\OOP LR9.2 Luchytskyi.AssemblyInfo.cs
+C:\Users\luchi\source\repos\OOP LR9.2 Luchytskyi\OOP LR9.2 Luchytskyi\obj\Debug\netcoreapp3.1\OOP LR9.2 Luchytskyi.csproj.CoreCompileInputs.cache
+C:\Users\luchi\source\repos\OOP LR9.2 Luchytskyi\OOP LR9.2 Luchytskyi\obj\Debug\netcoreapp3.1\OOP LR9.2 Luchytskyi.dll
+C:\Users\luchi\source\repos\OOP LR9.2 Luchytskyi\OOP LR9.2 Luchytskyi\obj\Debug\netcoreapp3.1\OOP LR9.2 Luchytskyi.pdb
+C:\Users\luchi\source\repos\OOP LR9.2 Luchytskyi\OOP LR9.2 Luchytskyi\obj\Debug\netcoreapp3.1\OOP LR9.2 Luchytskyi.genruntimeconfig.cache
+C:\Users\luchi\source\repos\OOP LR9.2 Luchytskyi\OOP LR9.2 Luchytskyi\obj\Debug\netcoreapp3.1\OOP LR9.2 Luchytskyi.csprojAssemblyReference.cache
