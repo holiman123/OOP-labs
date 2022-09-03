@@ -1,0 +1,13 @@
+C:\Users\luchi\source\repos\OOP LR 13\OOP LR 13\bin\Debug\netcoreapp3.1\OOP LR 13.exe
+C:\Users\luchi\source\repos\OOP LR 13\OOP LR 13\bin\Debug\netcoreapp3.1\OOP LR 13.deps.json
+C:\Users\luchi\source\repos\OOP LR 13\OOP LR 13\bin\Debug\netcoreapp3.1\OOP LR 13.runtimeconfig.json
+C:\Users\luchi\source\repos\OOP LR 13\OOP LR 13\bin\Debug\netcoreapp3.1\OOP LR 13.runtimeconfig.dev.json
+C:\Users\luchi\source\repos\OOP LR 13\OOP LR 13\bin\Debug\netcoreapp3.1\OOP LR 13.dll
+C:\Users\luchi\source\repos\OOP LR 13\OOP LR 13\bin\Debug\netcoreapp3.1\OOP LR 13.pdb
+C:\Users\luchi\source\repos\OOP LR 13\OOP LR 13\obj\Debug\netcoreapp3.1\OOP LR 13.csprojAssemblyReference.cache
+C:\Users\luchi\source\repos\OOP LR 13\OOP LR 13\obj\Debug\netcoreapp3.1\OOP LR 13.AssemblyInfoInputs.cache
+C:\Users\luchi\source\repos\OOP LR 13\OOP LR 13\obj\Debug\netcoreapp3.1\OOP LR 13.AssemblyInfo.cs
+C:\Users\luchi\source\repos\OOP LR 13\OOP LR 13\obj\Debug\netcoreapp3.1\OOP LR 13.csproj.CoreCompileInputs.cache
+C:\Users\luchi\source\repos\OOP LR 13\OOP LR 13\obj\Debug\netcoreapp3.1\OOP LR 13.dll
+C:\Users\luchi\source\repos\OOP LR 13\OOP LR 13\obj\Debug\netcoreapp3.1\OOP LR 13.pdb
+C:\Users\luchi\source\repos\OOP LR 13\OOP LR 13\obj\Debug\netcoreapp3.1\OOP LR 13.genruntimeconfig.cache
