@@ -1,0 +1,13 @@
+C:\Users\luchi\source\repos\OOP LR 12\OOP LR 12\bin\Debug\netcoreapp3.1\OOP LR 12.exe
+C:\Users\luchi\source\repos\OOP LR 12\OOP LR 12\bin\Debug\netcoreapp3.1\OOP LR 12.deps.json
+C:\Users\luchi\source\repos\OOP LR 12\OOP LR 12\bin\Debug\netcoreapp3.1\OOP LR 12.runtimeconfig.json
+C:\Users\luchi\source\repos\OOP LR 12\OOP LR 12\bin\Debug\netcoreapp3.1\OOP LR 12.runtimeconfig.dev.json
+C:\Users\luchi\source\repos\OOP LR 12\OOP LR 12\bin\Debug\netcoreapp3.1\OOP LR 12.dll
+C:\Users\luchi\source\repos\OOP LR 12\OOP LR 12\bin\Debug\netcoreapp3.1\OOP LR 12.pdb
+C:\Users\luchi\source\repos\OOP LR 12\OOP LR 12\obj\Debug\netcoreapp3.1\OOP LR 12.csprojAssemblyReference.cache
+C:\Users\luchi\source\repos\OOP LR 12\OOP LR 12\obj\Debug\netcoreapp3.1\OOP LR 12.AssemblyInfoInputs.cache
+C:\Users\luchi\source\repos\OOP LR 12\OOP LR 12\obj\Debug\netcoreapp3.1\OOP LR 12.AssemblyInfo.cs
+C:\Users\luchi\source\repos\OOP LR 12\OOP LR 12\obj\Debug\netcoreapp3.1\OOP LR 12.csproj.CoreCompileInputs.cache
+C:\Users\luchi\source\repos\OOP LR 12\OOP LR 12\obj\Debug\netcoreapp3.1\OOP LR 12.dll
+C:\Users\luchi\source\repos\OOP LR 12\OOP LR 12\obj\Debug\netcoreapp3.1\OOP LR 12.pdb
+C:\Users\luchi\source\repos\OOP LR 12\OOP LR 12\obj\Debug\netcoreapp3.1\OOP LR 12.genruntimeconfig.cache
